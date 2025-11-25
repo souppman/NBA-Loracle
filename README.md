@@ -1,11 +1,11 @@
 # 🏀 NBA Oracle
 
+**🌐 Live Demo: [https://nba-oracle-flyqyf1oh-souppmans-projects.vercel.app](https://nba-oracle-flyqyf1oh-souppmans-projects.vercel.app)**
+
 **ML-Powered NBA Fantasy Point Projections**  
 *Context-Aware. Time-Decayed. Precision Engineered.*
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://nba-oracle-flyqyf1oh-souppmans-projects.vercel.app)
-
-![NBA Oracle Screenshot](public/Screenshot%202025-11-24%20at%207.24.16%20PM.png)
+![NBA Oracle Screenshot](public/screenshot.png)
 
 ---
 
